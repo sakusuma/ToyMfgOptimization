@@ -1,5 +1,3 @@
-setwd("C:/Users/sakusuma/Downloads")
-
 # install.packages("lpSolve")
 library(lpSolve)
 
